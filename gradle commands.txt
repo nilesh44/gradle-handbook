@@ -1,0 +1,8 @@
+
+
+Commands
+create or update gradle wrapper:-
+gradle wrapper --gradle-version 7.2 --distribution-type all
+
+
+
